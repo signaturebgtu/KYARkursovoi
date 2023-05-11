@@ -1,0 +1,34 @@
+{
+  "rooms": [
+    {
+      "Room": "Luxury Suite",
+      "bed": "2 Bed",
+      "price": "$ 1999.99"
+    },
+    {
+      "Room": "Delux Suite",
+      "bed": "2 Bed",
+      "price": "$ 1599.99"
+    },
+    {
+      "Room": "Premier Suite",
+      "bed": "2 Bed",
+      "price": "$ 1299.99"
+    },
+    {
+      "Room": "Luxury Room",
+      "bed": "2 Bed",
+      "price": "$ 999.99"
+    },
+    {
+      "Room": "Delux Room",
+      "bed": "2 Bed",
+      "price": "$ 599.99"
+    },
+    {
+      "Room": "Premier Room",
+      "bed": "1 Bed",
+      "price": "$ 399.99"
+    }
+  ]
+}
